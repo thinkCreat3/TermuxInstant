@@ -1,0 +1,2 @@
+echo "Installing termux essentials" && apt update -y && apt upgrade -y && pkg update -y && pkg upgrade -y > /dev/null && echo " Done" && clear
+
